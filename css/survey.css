@@ -45,7 +45,7 @@ label:not([class="radio-label"]) {
 }
 
 
-/*change the input width*/
+/* change the input width */
 input:not([type="radio"]),
 select,
 textarea {
